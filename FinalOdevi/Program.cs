@@ -6,7 +6,7 @@
         {
             string formaterror = "Lütfen sadece sayıyı uygun formatta giriniz";
             string Overflowerror = "Girilen sayı değeri tanımlanamadı";
-            string notDegerierror = "Notu 0-100 aralığında girmelisiniz";
+            string notDegerierror = "Notu 0-100 aralığında girmelisiniz" ;
 
             double vizesonuc = 0;
             double finalsonuc = 0;
